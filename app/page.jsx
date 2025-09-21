@@ -387,17 +387,17 @@ export default function HomePage() {
                   </Link>
                 </li>
                 <li>
-                  <Link href="/categories" className="hover:text-foreground transition-colors">
+                  <Link href="/" className="hover:text-foreground transition-colors">
                     Categories
                   </Link>
                 </li>
                 <li>
-                  <Link href="/about" className="hover:text-foreground transition-colors">
+                  <Link href="/" className="hover:text-foreground transition-colors">
                     About Us
                   </Link>
                 </li>
                 <li>
-                  <Link href="/contact" className="hover:text-foreground transition-colors">
+                  <Link href="/" className="hover:text-foreground transition-colors">
                     Contact
                   </Link>
                 </li>
@@ -411,22 +411,22 @@ export default function HomePage() {
               <h4 className="font-semibold mb-4">Customer Service</h4>
               <ul className="space-y-2 text-sm text-muted-foreground">
                 <li>
-                  <Link href="/help" className="hover:text-foreground transition-colors">
+                  <Link href="/" className="hover:text-foreground transition-colors">
                     Help Center
                   </Link>
                 </li>
                 <li>
-                  <Link href="/returns" className="hover:text-foreground transition-colors">
+                  <Link href="/" className="hover:text-foreground transition-colors">
                     Returns
                   </Link>
                 </li>
                 <li>
-                  <Link href="/shipping" className="hover:text-foreground transition-colors">
+                  <Link href="/" className="hover:text-foreground transition-colors">
                     Shipping Info
                   </Link>
                 </li>
                 <li>
-                  <Link href="/track" className="hover:text-foreground transition-colors">
+                  <Link href="/" className="hover:text-foreground transition-colors">
                     Track Order
                   </Link>
                 </li>
