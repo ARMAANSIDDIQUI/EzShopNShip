@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E-commerce Frontend Build
 
 *Automatically synced with your [v0.app](https://v0.app) deployments*
@@ -28,3 +29,6 @@ Continue building your app on:
 2. Deploy your chats from the v0 interface
 3. Changes are automatically pushed to this repository
 4. Vercel deploys the latest version from this repository
+=======
+# EzShopNShip
+>>>>>>> 67d913ce26e821640afdde36cf5da40f6aa933c6
